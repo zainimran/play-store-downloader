@@ -1,0 +1,5 @@
+{
+  "name": "Play Store Downloader",
+  "description": "Download Google Play Store pages as single HTML files using client-side fetching or a local proxy.",
+  "requestFramePermissions": []
+}
